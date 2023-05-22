@@ -29,7 +29,7 @@ A browser with JavaScript enabled, and a blog.  Only tested with WordPress.
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
