@@ -25,6 +25,7 @@ A browser with JavaScript enabled, and a blog.  Only tested with WordPress.
 
 - [ ] More flexible title extraction that supports more than just WordPress.  (you can modify this
   by updating h1.entry-title (on line 3) for your blog)
+- [ ] Turn into an extension that detects when post is being published and automatically tweets
 
 ## License
 
